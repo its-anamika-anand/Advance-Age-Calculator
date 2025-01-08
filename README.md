@@ -17,7 +17,7 @@ Installation
 
 Clone the Repository
 
-git clone 
+git clone https://github.com/its-anamika-anand/Advance-Age-Calculator.git
 
 Navigate to the Directory
 
